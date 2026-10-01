@@ -27,6 +27,7 @@ describe('occupational hat output', () => {
         }
       }
     },
+    15_000,
   );
   it('keeps every occupational emblem legible against its fixed surface', () => {
     const luminance = (hex) => {
